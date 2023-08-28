@@ -6,6 +6,7 @@ import {
   FaDiscord,
   FaFacebook,
   FaInstagramSquare,
+  FaRegAddressCard,
   FaTwitterSquare,
   FaYoutube,
 } from "react-icons/fa";
@@ -83,11 +84,14 @@ const Footer = () => {
         </div>
         <div className="">
           <h1 className="mb-6 text-2xl">SOCIAL LINKS</h1>
-          <FaFacebook className="mb-2 text-2xl text-[#dcb84e]"></FaFacebook>
-          <FaInstagramSquare className="mb-2 text-2xl text-[#dcb84e]"></FaInstagramSquare>
-          <FaTwitterSquare className="mb-2 text-2xl text-[#dcb84e]"></FaTwitterSquare>
-          <FaYoutube className="mb-2 text-2xl text-[#dcb84e]"></FaYoutube>
-          <FaDiscord className="mb-2 text-2xl text-[#dcb84e]"></FaDiscord>
+         <div className="grid grid-cols-2 gap-5">
+         <span> <FaFacebook className="mb-2 text-4xl text-[#dcb84e] animate-pulse"></FaFacebook></span>
+         <span> <FaInstagramSquare className="mb-2 text-4xl text-[#dcb84e] animate-pulse"></FaInstagramSquare></span>
+         <span> <FaTwitterSquare className="mb-2 text-4xl text-[#dcb84e] animate-pulse"></FaTwitterSquare></span>
+         <span> <FaYoutube className="mb-2 text-4xl text-[#dcb84e] animate-pulse"></FaYoutube></span>
+          <span><FaDiscord className="mb-2 text-4xl text-[#dcb84e] animate-pulse "></FaDiscord></span>
+          <span><FaRegAddressCard className="mb-2 text-4xl text-[#dcb84e] animate-pulse "></FaRegAddressCard></span>
+         </div>
         </div>
         <div className="">
           <h1 className="mb-6 text-2xl">POLICY PRIVACY</h1>

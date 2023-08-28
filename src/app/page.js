@@ -4,12 +4,13 @@ import Dessert from '@/components/Dessert'
 import Dinning from '@/components/Dinning'
 import Entertainment from '@/components/Entertainment'
 import Explore from '@/components/Explore'
+import Food from '@/components/Food'
 import Footer from '@/components/Footer'
 import Fountain from '@/components/Fountain'
 import Gallery from '@/components/Gallery'
 import Navbar from '@/components/Navbar'
+import Pool from '@/components/Pool'
 import Resort from '@/components/Resort'
-import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -24,6 +25,8 @@ export default function Home() {
       <Dinning></Dinning>
       <Gallery></Gallery>
       <Dessert></Dessert>
+      <Food></Food>
+      <Pool></Pool>
       <Footer></Footer>
     </main>
   )

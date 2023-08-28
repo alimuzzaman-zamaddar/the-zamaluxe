@@ -36,7 +36,7 @@ const CardSection = () => {
             <a href="#">
               <div className="overflow-hidden">
                 <img
-                  className="hover:scale-125 duration-700 w-full"
+                  className="hover:scale-125 h-[208px] duration-700 w-full"
                   src="https://assets.kerzner.com/api/public/content/da5a3a1e026a4407b37f1562f604366f?v=a0b1f26a&t=w992"
                   alt=""
                 />
@@ -70,7 +70,7 @@ const CardSection = () => {
             <a href="#">
               <div className="overflow-hidden">
                 <img
-                  className="hover:scale-125 duration-700 w-full"
+                  className="hover:scale-125 h-[208px] duration-700 w-full"
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb1B0yWxMakXOFrA3OT2S2Dom3NpGVXYMaTA&usqp=CAU"
                   alt=""
                 />
@@ -103,7 +103,7 @@ const CardSection = () => {
             <a href="#">
               <div className="overflow-hidden">
                 <img
-                  className="hover:scale-125 duration-700 w-full"
+                  className="hover:scale-125 h-[208px] duration-700 w-full"
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYgAo4uFVXoUh1CXzN9ZMlJuSdamviLMEBg&usqp=CAU"
                   alt=""
                 />
@@ -137,7 +137,7 @@ const CardSection = () => {
             <a href="#">
               <div className="overflow-hidden">
                 <img
-                  className="hover:scale-125 duration-700 w-full"
+                  className="hover:scale-125 h-[208px] duration-700 w-full"
                   src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/63/0f/a5/corner-double-queen-city.jpg?w=1200&h=-1&s=1"
                   alt=""
                 />
@@ -171,8 +171,8 @@ const CardSection = () => {
             <a href="#">
               <div className="overflow-hidden">
                 <img
-                  className="hover:scale-125 duration-700 w-full"
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJuiXjBqy7LIAtNogint7Lr5r61SrahSpdg&usqp=CAU"
+                  className="hover:scale-125 h-[208px] duration-700 w-full"
+                  src="https://uploads-ssl.webflow.com/63e3cc1923c2ab167578e72a/6474ca3acb8c5f94d80cc706_luxury-yacht-berkus-p-500.webp"
                   alt=""
                 />
               </div>
@@ -204,7 +204,7 @@ const CardSection = () => {
             <a href="#">
               <div className="overflow-hidden">
                 <img
-                  className="hover:scale-125 duration-700 w-full"
+                  className="hover:scale-125 h-[208px] duration-700 w-full"
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOaCY0NuecOKtZwAJ0ATWRqEZE5torUruWQ&usqp=CAU"
                   alt=""
                 />
@@ -238,7 +238,7 @@ const CardSection = () => {
             <a href="#">
               <div className="overflow-hidden">
                 <img
-                  className="hover:scale-125 duration-700 w-full"
+                  className="hover:scale-125 h-[208px] duration-700 w-full"
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9FdQEl71q0jlqFjzhXZYxC41om8v9x4Paw&usqp=CAU"
                   alt=""
                 />
@@ -272,7 +272,7 @@ const CardSection = () => {
             <a href="#">
               <div className="overflow-hidden">
                 <img
-                  className="hover:scale-125 duration-700 w-full"
+                  className="hover:scale-125 h-[208px] duration-700 w-full"
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhcCtWZzCLAH-IhMJvrNbCGPbm785sgV-nR5MbVJuk57jV8ptCZ50ajAG9IU6-1zutmw&usqp=CAU"
                   alt=""
                 />

@@ -7,7 +7,7 @@ const Entertainment = () => {
               className="w-full"
               data-aos="zoom-in"
               data-aos-duration="1000"
-              src="https://luxurycolumnist.com/wp-content/uploads/2021/07/giraffe-manor-sunset-feeding.jpg"
+              src="https://assets.kerzner.com/api/public/content/e55d588e36cf4fc9a9443642efc68204?v=f3773722&t=w992"
               alt=""
             />
           </div>
