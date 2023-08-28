@@ -30,7 +30,7 @@ const Gallery = () => {
           >
             <img
               className="max-w-[100%] h-[100%] hover:scale-125 duration-700"
-              src="https://www.pandotrip.com/wp-content/uploads/2023/01/Burj-Al-Arab-7-Star-Hotel-in-Dubai-UAE.jpg"
+              src="https://uploads-ssl.webflow.com/63e3cc1923c2ab167578e72a/6423050aaaa7d14a8ac2ddd2_cyberpunk-apartment-p-500.webp"
               alt=""
             />
           </div>
@@ -43,7 +43,7 @@ const Gallery = () => {
             >
               <img
                 className="h-[100%] w-[100%] hover:scale-125 duration-700"
-                src="https://www.pandotrip.com/wp-content/uploads/2023/01/Inside-Burj-Al-Arabs-Royal-Suite.jpg"
+                src="https://uploads-ssl.webflow.com/63e3cc1923c2ab167578e72a/648774b3da4ec766208766bb_hoppen-bedroom.webp"
                 alt=""
               />
             </div>
@@ -69,7 +69,7 @@ const Gallery = () => {
               >
                 <img
                   className="h-[235px] hover:scale-125 duration-700"
-                  src="https://www.pandotrip.com/wp-content/uploads/2023/01/Inside-of-Burj-Al-Arab.jpg"
+                  src="https://uploads-ssl.webflow.com/63e3cc1923c2ab167578e72a/6422065b34c64899fd99de58_open-concept-living-room-p-500.webp"
                   alt=""
                 />
               </div>

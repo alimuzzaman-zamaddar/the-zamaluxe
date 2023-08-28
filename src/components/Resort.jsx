@@ -31,7 +31,7 @@ const Resort = () => {
           <div className=""   data-aos="zoom-in"
               data-aos-duration="1000">
             <img
-              src="https://assets.kerzner.com/api/public/content/92ee28e0768f4d4593db2f1acfa37708?v=21541bc3&t=w992"
+              src="https://luxurycolumnist.com/wp-content/uploads/2021/07/THE-MURAKA_Undersea-Bedroom_Justin-Nicholas.jpg"
               alt=""
             />
             <h1 className="text-3xl text-blue-950 my-5"  data-aos="fade-up"
