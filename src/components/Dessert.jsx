@@ -60,7 +60,7 @@ const Dessert = () => {
             <div className=" w-[40%] mx-auto bg-black bg-opacity-30 px-10 pb-10 ">
               <h1 className="text-4xl py-6  text-white  font-serif border-b-[2px] border-white mb-10" data-aos="zoom-in"
               data-aos-duration="2000">Non-Stop Entertainment</h1>
-              <p className="text-blue-950 mb-5  text-white" data-aos="zoom-in"
+              <p className=" mb-5  text-white" data-aos="zoom-in"
               data-aos-duration="2000">
                 Atlantis Resorts are the quintessential day through to night
                 entertainment destinations, offering a range of activities
