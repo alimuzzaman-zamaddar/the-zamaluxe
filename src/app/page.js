@@ -1,6 +1,7 @@
 import Banner from '@/components/Banner'
 import CardSection from '@/components/CardScetion'
 import Dessert from '@/components/Dessert'
+import Dinning from '@/components/Dinning'
 import Entertainment from '@/components/Entertainment'
 import Explore from '@/components/Explore'
 import Footer from '@/components/Footer'
@@ -20,6 +21,7 @@ export default function Home() {
       <Entertainment></Entertainment>
       <Fountain></Fountain>
       <Explore></Explore>
+      <Dinning></Dinning>
       <Gallery></Gallery>
       <Dessert></Dessert>
       <Footer></Footer>
