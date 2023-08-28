@@ -32,7 +32,7 @@ const CardSection = () => {
       </div>
       <div className="grid grid-cols-4 gap-5 py-20  px-5">
         <div className="">
-          <Card className="" data-aos="fade-up" data-aos-duration="2000">
+          <Card className="" data-aos="fade-up" data-aos-duration="1000">
             <a href="#">
               <div className="overflow-hidden">
                 <img
@@ -66,7 +66,7 @@ const CardSection = () => {
           </Card>
         </div>
         <div className="">
-          <Card className="" data-aos="fade-up" data-aos-duration="2000">
+          <Card className="" data-aos="fade-up" data-aos-duration="1000">
             <a href="#">
               <div className="overflow-hidden">
                 <img
@@ -99,7 +99,7 @@ const CardSection = () => {
           </Card>
         </div>
         <div className="">
-          <Card className="" data-aos="fade-up" data-aos-duration="2000">
+          <Card className="" data-aos="fade-up" data-aos-duration="1000">
             <a href="#">
               <div className="overflow-hidden">
                 <img
@@ -133,7 +133,7 @@ const CardSection = () => {
           </Card>
         </div>
         <div className="">
-          <Card className="" data-aos="fade-up" data-aos-duration="2000">
+          <Card className="" data-aos="fade-up" data-aos-duration="1000">
             <a href="#">
               <div className="overflow-hidden">
                 <img
@@ -167,7 +167,7 @@ const CardSection = () => {
           </Card>
         </div>
         <div className="">
-          <Card className="" data-aos="fade-up" data-aos-duration="2000">
+          <Card className="" data-aos="fade-up" data-aos-duration="1000">
             <a href="#">
               <div className="overflow-hidden">
                 <img
@@ -200,7 +200,7 @@ const CardSection = () => {
           </Card>
         </div>
         <div className="">
-          <Card className="" data-aos="fade-up" data-aos-duration="2000">
+          <Card className="" data-aos="fade-up" data-aos-duration="1000">
             <a href="#">
               <div className="overflow-hidden">
                 <img
@@ -234,7 +234,7 @@ const CardSection = () => {
           </Card>
         </div>
         <div className="">
-          <Card className="" data-aos="fade-up" data-aos-duration="2000">
+          <Card className="" data-aos="fade-up" data-aos-duration="1000">
             <a href="#">
               <div className="overflow-hidden">
                 <img
@@ -268,7 +268,7 @@ const CardSection = () => {
           </Card>
         </div>
         <div className="">
-          <Card className="" data-aos="fade-up" data-aos-duration="2000">
+          <Card className="" data-aos="fade-up" data-aos-duration="1000">
             <a href="#">
               <div className="overflow-hidden">
                 <img
