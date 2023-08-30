@@ -52,7 +52,7 @@ const Food = () => {
                   className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white"
                   href="#"
                 >
-                  <p>Book Now</p>
+                  <p>Order Now</p>
                 </a>
               </div>
             </Card>
@@ -85,7 +85,7 @@ const Food = () => {
                   className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white"
                   href="#"
                 >
-                  <p>Book Now</p>
+                  <p>Order Now</p>
                 </a>
               </div>
             </Card>
@@ -119,7 +119,7 @@ const Food = () => {
                   className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white"
                   href="#"
                 >
-                  <p>Book Now</p>
+                  <p>Order Now</p>
                 </a>
               </div>
             </Card>
@@ -153,7 +153,7 @@ const Food = () => {
                   className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white"
                   href="#"
                 >
-                  <p>Book Now</p>
+                  <p>Order Now</p>
                 </a>
               </div>
             </Card>
@@ -186,7 +186,7 @@ const Food = () => {
                   className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white"
                   href="#"
                 >
-                  <p>Book Now</p>
+                  <p>Order Now</p>
                 </a>
               </div>
             </Card>
@@ -220,7 +220,7 @@ const Food = () => {
                   className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white"
                   href="#"
                 >
-                  <p>Book Now</p>
+                  <p>Order Now</p>
                 </a>
               </div>
             </Card>
@@ -254,7 +254,7 @@ const Food = () => {
                   className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white"
                   href="#"
                 >
-                  <p>Book Now</p>
+                  <p>Order Now</p>
                 </a>
               </div>
             </Card>
@@ -288,7 +288,7 @@ const Food = () => {
                   className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white"
                   href="#"
                 >
-                  <p>Book Now</p>
+                  <p>Order Now</p>
                 </a>
               </div>
             </Card>
