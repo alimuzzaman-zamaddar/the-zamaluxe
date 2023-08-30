@@ -2,11 +2,11 @@
 import { Carousel } from "flowbite-react";
 const Banner = () => {
   return (
-    <div className="relative">
+    <div className="relative bg-black">
       <Carousel
         leftControl="<"
         rightControl=">"
-        className="h-[calc(100dvh-0dvh)] md:h-[calc(100dvh-12dvh)]"
+        className="h-screen"
       >
         <img
           alt="..."
@@ -26,6 +26,19 @@ const Banner = () => {
         />
       </Carousel>
 
+      <div className="absolute left-[8%] top-[30%]">
+        <div className=" w-2/4 ">
+          <h1 className="text-2xl font-extrabold uppercase text-center text-white font-serif bg-black bg-opacity-20">
+            explore the most luxerous hotel in the world
+            <div className="">
+              <button className="px-16 mt-10 text-2xl bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white">
+                Book Now
+              </button>
+            </div>
+          </h1>
+          <p></p>
+        </div>
+      </div>
     </div>
   );
 };
