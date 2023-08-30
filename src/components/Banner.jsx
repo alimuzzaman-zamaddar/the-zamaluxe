@@ -26,19 +26,6 @@ const Banner = () => {
         />
       </Carousel>
 
-      <div className="absolute left-[20%] top-[25%]">
-        <div className=" w-3/4 ">
-          <h1 className="text-7xl font-extrabold uppercase text-center text-white font-serif bg-black bg-opacity-20">
-            explore the most luxerous hotel in the world
-            <div className="">
-              <button className="px-16 mt-10 text-2xl bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white">
-                Book Now
-              </button>
-            </div>
-          </h1>
-          <p></p>
-        </div>
-      </div>
     </div>
   );
 };
