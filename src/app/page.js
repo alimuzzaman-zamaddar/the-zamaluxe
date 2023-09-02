@@ -5,17 +5,14 @@ import Dinning from '@/components/Dinning'
 import Entertainment from '@/components/Entertainment'
 import Explore from '@/components/Explore'
 import Food from '@/components/Food'
-import Footer from '@/components/Footer'
 import Fountain from '@/components/Fountain'
 import Gallery from '@/components/Gallery'
-import Navbar from '@/components/Navbar'
 import Pool from '@/components/Pool'
 import Resort from '@/components/Resort'
 
 export default function Home() {
   return (
-    <main className="">
-      <Navbar></Navbar>
+    <main className="overflow-x-hidden">
       <Banner></Banner>
       <CardSection></CardSection>
       <Resort></Resort>
@@ -27,7 +24,6 @@ export default function Home() {
       <Dessert></Dessert>
       <Food></Food>
       <Pool></Pool>
-      <Footer></Footer>
     </main>
   )
 }

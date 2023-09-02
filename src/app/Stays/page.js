@@ -6,7 +6,7 @@ import 'aos/dist/aos.css';
 import { Card } from "flowbite-react";
 import { FaStar } from "react-icons/fa";
 
-const CardSection = () => {
+const page = () => {
     useEffect(() => {
         AOS.init({
              duration: 800,
@@ -30,7 +30,7 @@ const CardSection = () => {
           the world has not seen culinary mastery until now.
         </p>
       </div>
-      <div className="grid grid-cols-1  md:grid-cols-4 gap-5 py-20  px-5">
+      <div className="grid grid-cols-4 gap-5 py-20  px-5">
         <div className="">
           <Card className="" data-aos="fade-up" data-aos-duration="1000">
             <a href="#">
@@ -306,4 +306,4 @@ const CardSection = () => {
   );
 };
 
-export default CardSection;
+export default page;

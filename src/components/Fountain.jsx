@@ -1,10 +1,10 @@
 const Fountain = () => {
   return (
     <div className="bg-slate-300 py-10 border-y-2 border-blue-900">
-      <div className="  py-11 w-[1280px] mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 relative border-2 border-blue-900">
+      <div className="  py-11 md:w-[1280px] mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-2 relative md:border-2 border-blue-900">
           <div
-            className="bg-[#001446] flex justify-center items-center mb-16 absolute left-[500px] top-0  h-[600px]"
+            className="bg-[#001446] flex justify-center items-center mb-16 md:absolute left-[500px] top-0  h-[600px]"
             data-aos="fade-left"
             data-aos-offset="300"
             data-aos-easing="ease-in-sine"

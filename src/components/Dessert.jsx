@@ -1,8 +1,8 @@
 const Dessert = () => {
     return (
       <div className="bg-slate-50">
-        <div className="py-20  flex w-[90%] mx-auto">
-          <div className=" w-[70%] mr-14">
+        <div className="py-20  md:flex w-[90%] mx-auto">
+          <div className=" md:w-[70%] w-full mr-14">
             <img
               className="w-full"
               data-aos="zoom-in"
@@ -11,7 +11,7 @@ const Dessert = () => {
               alt=""
             />
           </div>
-          <div className=" w-[30%] flex justify-center items-center border-t-2 border-b-2 border-blue-950">
+          <div className=" md:w-[30%] flex justify-center items-center border-t-2 border-b-2 border-blue-950">
             <div className=" w-[80%] mx-auto text-center">
               <h1
                 className="text-4xl py-6 text-blue-700 font-serif border-b-[1px] border-blue-700 mb-10"
@@ -48,16 +48,16 @@ const Dessert = () => {
           </div>
         </div>
         <div className="buttome w-[90%] mx-auto pb-20 relative">
-          <div className="h-[500px] w-[100%] overflow-hidden">
+          <div className="md:h-[500px] md:w-[100%] overflow-hidden">
             <img
               className=""
               src="https://assets.kerzner.com/api/public/content/2f678e0401ba41889da92c38ba982ca1?v=946329f3&t=w1920"
               alt=""
             />
           </div>
-          <div className=" absolute -left-60 top-10">
+          <div className=" md:absolute -left-60 top-10">
           <div className=" ">
-            <div className=" w-[40%] mx-auto bg-black bg-opacity-30 px-10 pb-10 ">
+            <div className=" md:w-[40%] mx-auto bg-black bg-opacity-30 px-10 pb-10 ">
               <h1 className="text-4xl py-6  text-white  font-serif border-b-[2px] border-white mb-10" data-aos="zoom-in"
               data-aos-duration="2000">Non-Stop Entertainment</h1>
               <p className=" mb-5  text-white" data-aos="zoom-in"

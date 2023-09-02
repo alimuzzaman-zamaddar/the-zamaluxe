@@ -3,13 +3,13 @@ import React from "react";
 import { Card } from "flowbite-react";
 import { FaStar } from "react-icons/fa";
 
-const Food = () => {
+const page = () => {
   return (
     <div>
-      <div className="bg-gradient-to-r from-sky-700 to-indigo-700">
-        <div className=" pt-14 w-2/4 mx-auto text-center text-orange-300 ">
+      <div className="bg-indigo-200">
+        <div className=" pt-14 w-2/4 mx-auto text-center text-blue-950 ">
           <h1
-            className="text-4xl font-serif pb-5 border-b-[1px] border-orange-300 mb-6"
+            className="text-4xl font-serif pb-5 border-b-[1px] border-blue-950 mb-6"
             data-aos="fade-up"
             data-aos-duration="3000"
           >
@@ -22,7 +22,7 @@ const Food = () => {
             Royal joins forces with ZamaLuxe.
           </p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-5 py-20  px-5">
+        <div className="grid grid-cols-4 gap-5 py-20  px-5">
           <div className="">
             <Card className="bg-gradient-to-r from-blue-950 via-blue-500 to-blue-950 " data-aos="fade-up" data-aos-duration="1000">
               <a href="#">
@@ -299,4 +299,4 @@ const Food = () => {
   );
 };
 
-export default Food;
+export default page;

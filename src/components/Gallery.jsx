@@ -21,22 +21,22 @@ const Gallery = () => {
             the ocean’s most beloved inhabitants.
           </p>
         </div>
-        <div className=" flex gap-4 h-[500px]">
+        <div className=" md:flex gap-4 md:h-[500px]">
           <div
-            className="w-[22%] overflow-hidden"
+            className="md:w-[22%] overflow-hidden"
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
             data-aos-duration="2000"
           >
             <img
-              className="max-w-[100%] h-[100%] hover:scale-125 duration-700"
+              className="md:max-w-[100%] w-full h-[100%] hover:scale-125 duration-700"
               src="https://uploads-ssl.webflow.com/63e3cc1923c2ab167578e72a/6423050aaaa7d14a8ac2ddd2_cyberpunk-apartment-p-500.webp"
               alt=""
             />
           </div>
-          <div className=" w-[50%]">
+          <div className=" md:w-[50%]">
             <div
-              className="h-[50%] mb-4 overflow-hidden"
+              className="md:h-[50%] mb-4 overflow-hidden"
               data-aos="flip-left"
               data-aos-easing="ease-out-cubic"
               data-aos-duration="2000"
@@ -48,7 +48,7 @@ const Gallery = () => {
               />
             </div>
 
-            <div className=" grid grid-cols-3 gap-4">
+            <div className=" grid grid-cols-1 md:grid-cols-3 gap-4">
               <div
                 className="overflow-hidden"
                 data-aos="flip-left"
@@ -56,7 +56,7 @@ const Gallery = () => {
                 data-aos-duration="2000"
               >
                 <img
-                  className="h-[235px] hover:scale-125 duration-700"
+                  className="md:h-[235px] hover:scale-125 duration-700"
                   src="https://www.pandotrip.com/wp-content/uploads/2023/01/Photo-of-Burj-Al-Arab-from-Madinat-Jumeirah.jpg"
                   alt=""
                 />
@@ -68,7 +68,7 @@ const Gallery = () => {
                 data-aos-duration="2000"
               >
                 <img
-                  className="h-[235px] hover:scale-125 duration-700"
+                  className="md:h-[235px] hover:scale-125 duration-700"
                   src="https://uploads-ssl.webflow.com/63e3cc1923c2ab167578e72a/6422065b34c64899fd99de58_open-concept-living-room-p-500.webp"
                   alt=""
                 />
@@ -80,16 +80,16 @@ const Gallery = () => {
                 data-aos-duration="2000"
               >
                 <img
-                  className="h-[235px] hover:scale-125 duration-700"
+                  className="md:h-[235px] hover:scale-125 duration-700"
                   src="https://www.pandotrip.com/wp-content/uploads/2023/01/Ristorante-L-Olivo-at-Al-Mahara-with-seawater-aquarium.jpg"
                   alt=""
                 />
               </div>
             </div>
           </div>
-          <div className=" w-[28%] bg-slate-100">
+          <div className=" md:w-[28%] bg-slate-100">
             <div
-              className="h-[50%] mb-4 overflow-hidden"
+              className="md:h-[50%] mb-4 overflow-hidden"
               data-aos="flip-left"
               data-aos-easing="ease-out-cubic"
               data-aos-duration="2000"
@@ -100,7 +100,7 @@ const Gallery = () => {
                 alt=""
               />
             </div>
-            <div className="flex gap-4">
+            <div className="md:flex gap-4">
               <div
                 className="overflow-hidden"
                 data-aos="flip-left"
@@ -108,7 +108,7 @@ const Gallery = () => {
                 data-aos-duration="2000"
               >
                 <img
-                  className="h-[235px] hover:scale-125 duration-700"
+                  className="md:h-[235px] hover:scale-125 duration-700"
                   src="https://assets.kerzner.com/api/public/content/da5a3a1e026a4407b37f1562f604366f?v=a0b1f26a&t=w992"
                   alt=""
                 />
@@ -120,7 +120,7 @@ const Gallery = () => {
                 data-aos-duration="2000"
               >
                 <img
-                  className="h-[235px] hover:scale-125 duration-700"
+                  className="md:h-[235px] hover:scale-125 duration-700"
                   src="https://assets.kerzner.com/api/public/content/faed8d55a44746d39169c1d3e8364f6b?v=a6a0c5c9&t=w992"
                   alt=""
                 />

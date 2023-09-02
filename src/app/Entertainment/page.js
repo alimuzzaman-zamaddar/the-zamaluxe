@@ -1,8 +1,8 @@
-const Entertainment = () => {
+const page = () => {
     return (
-      <div className="bg-orange-50 ">
-        <div className="py-20  md:flex w-[90%] mx-auto">
-          <div className=" md:w-[70%]">
+      <div className="bg-orange-50">
+        <div className="py-20  flex w-[90%] mx-auto">
+          <div className=" w-[70%]">
             <img
               className="w-full"
               data-aos="zoom-in"
@@ -11,7 +11,7 @@ const Entertainment = () => {
               alt=""
             />
           </div>
-          <div className=" md:w-[30%] flex justify-center items-center">
+          <div className=" w-[30%] flex justify-center items-center">
             <div className=" w-[80%] mx-auto text-center">
               <h1 className="text-4xl py-6 text-blue-700 font-serif border-b-[1px] border-blue-700 mb-10" data-aos="zoom-in"
               data-aos-duration="2000">Non-Stop Entertainment</h1>
@@ -34,4 +34,4 @@ const Entertainment = () => {
     );
   };
   
-  export default Entertainment;
+  export default page;
