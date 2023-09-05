@@ -24,17 +24,13 @@ const Navbar = () => {
       </div>
 
     </div>
-          <div className="flex w-3/5 mx-auto justify-between py-3 text-white text-sm">
-          <Link href="/">Home</Link>
+          <div className=" md:flex w-3/5 mx-auto justify-between py-3 text-white text-sm">
+          <Link href="/">HOME</Link>
           <Link href="/Stays">STAYS</Link>
           <Link href='/Dinning'>DINNING</Link>
           <Link href='/Entertainment'>ENTERTAINMENT</Link>
           <Link href='/Adventure'>ADVENTURES</Link>
           <Link href='/Foods'>FOODS</Link>
-          
-          
-          <a href="#">EVENTS</a>
-          <a href="#">OFFERS</a>
         </div>
     </div>
     </div>
