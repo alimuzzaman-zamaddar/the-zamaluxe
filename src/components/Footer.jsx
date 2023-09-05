@@ -21,7 +21,7 @@ const Footer = () => {
           </h1>
         </div>
         <div className="">
-          <form className="flex max-w-xl flex-col gap-4 mx-auto py-11 text-[#dcb84e] ">
+          <form className="flex max-w-xl px-3 flex-col gap-4 mx-auto py-11 text-[#dcb84e] ">
             <div>
               <div className="mb-2 block ">
                 <Label
@@ -70,7 +70,7 @@ const Footer = () => {
         </div>
       </div>
       <div
-        className="grid grid-cols-4 font-serif py-5 border-b-[1px] border-[#dcb84e] w-[95%] mx-auto "
+        className="grid grid-cols-1 md:grid-cols-4 font-serif py-5 border-b-[1px] border-[#dcb84e] w-[95%] mx-auto "
         data-aos="fade-up"
         data-aos-anchor-placement="bottom-bottom"
       >
