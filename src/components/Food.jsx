@@ -6,7 +6,7 @@ import { FaStar } from "react-icons/fa";
 const Food = () => {
   return (
     <div>
-      <div className="bg-gradient-to-r from-sky-700 to-indigo-700">
+      <div className="bg-[#001446]">
         <div className=" pt-14 w-2/4 mx-auto text-center text-orange-300 ">
           <h1
             className="text-4xl font-serif pb-5 border-b-[1px] border-orange-300 mb-6"
