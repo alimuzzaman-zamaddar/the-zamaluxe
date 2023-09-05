@@ -1,7 +1,7 @@
 const Resort = () => {
   return (
     <div className="bg-orange-50">
-      <div className=" w-2/4 mx-auto text-center pt-10">
+      <div className=" md:w-2/4 px-3 mx-auto text-center pt-10">
         <h1
           className="text-4xl font-sans pb-5 border-b-[1px] border-blue-500 mb-5 text-blue-950"
           data-aos="fade-up"

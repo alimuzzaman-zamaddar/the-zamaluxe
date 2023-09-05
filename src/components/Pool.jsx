@@ -2,7 +2,7 @@ const Pool = () => {
   return (
     <div className="bg-orange-50">
       <div className="py-20  md:flex w-[90%] mx-auto">
-        <div className=" md:w-[30%] flex justify-center items-center">
+        <div className=" md:w-[30%] flex justify-center mb-5 items-center">
           <div className=" w-[80%] mx-auto text-center">
             <h1
               className="text-4xl py-6 text-blue-700 font-serif border-b-[1px] border-blue-700 mb-10"

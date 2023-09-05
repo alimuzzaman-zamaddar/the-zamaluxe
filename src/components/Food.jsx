@@ -7,7 +7,7 @@ const Food = () => {
   return (
     <div>
       <div className="bg-[#001446]">
-        <div className=" pt-14 w-2/4 mx-auto text-center text-orange-300 ">
+        <div className=" pt-14 px-3 md:w-2/4 mx-auto text-center text-orange-300 ">
           <h1
             className="text-4xl font-serif pb-5 border-b-[1px] border-orange-300 mb-6"
             data-aos="fade-up"

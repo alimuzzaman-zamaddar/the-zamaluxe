@@ -4,8 +4,6 @@ const Banner = () => {
   return (
     <div className="relative bg-black">
       <Carousel
-        leftControl="<"
-        rightControl=">"
         className="h-screen"
       >
         <img

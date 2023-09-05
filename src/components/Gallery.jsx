@@ -4,7 +4,7 @@ const Gallery = () => {
   return (
     <div className="py-20 bg-orange-100">
       <div className="w-[95%] mx-auto">
-        <div className="text-center w-1/2 mx-auto">
+        <div className="text-center md:w-1/2 px-3 mx-auto">
           <h1 data-aos="fade-up"
             data-aos-easing="ease-out-cubic"
             data-aos-duration="2000" className="text-4xl text-blue-950 mb-6 font-serif pb-5 border-b-[1px] border-blue-950">

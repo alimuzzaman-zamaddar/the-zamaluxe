@@ -15,7 +15,7 @@ const CardSection = () => {
      }, [])
   return (
     <div className="bg-orange-50">
-      <div className=" pt-14 w-2/4 mx-auto text-center text-blue-950 ">
+      <div className="pt-14 px-3 md:w-2/4 mx-auto text-center text-blue-950 ">
         <h1 className="text-4xl font-serif pb-5 border-b-[1px] border-blue-950 mb-6" data-aos="fade-up"
      data-aos-duration="3000">
           FIND THE PLACE YOU LIKE AND EXPLORE LUXARY LIFE.

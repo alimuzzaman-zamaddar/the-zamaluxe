@@ -11,7 +11,7 @@ const Explore = () => {
               alt=""
             />
           </div>
-          <div className=" absolute top-[37%] left-[10%] w-[500px] mb-3 bg-[#201b0d] bg-opacity-30"  data-aos="fade-right"
+          <div className=" absolute top-[37%] left-2 md:left-[10%] w-[500px] mb-3 bg-[#201b0d] bg-opacity-30"  data-aos="fade-right"
               data-aos-duration="3000">
             <h1 className=" md:text-6xl font-serif text-white font-extrabold uppercase">This is our royle scape</h1>
             <p className="md:text-lg mb-5 uppercase text-white font-serif">our extraordinary view and shows</p>
