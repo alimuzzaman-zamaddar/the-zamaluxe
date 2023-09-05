@@ -26,12 +26,12 @@ const Banner = () => {
         />
       </Carousel>
 
-      <div className="absolute left-[8%] top-[30%]">
-        <div className=" w-2/4 ">
-          <h1 className="text-2xl font-extrabold uppercase text-center text-white font-serif bg-black bg-opacity-20">
+      <div className=" md:absolute text-center md:left-[8%] md:top-[30%]">
+        <div className=" md:w-2/4 ">
+          <h1 className="md:text-2xl font-extrabold uppercase text-center text-white font-serif bg-black bg-opacity-20">
             explore the most luxerous hotel in the world
             <div className="">
-              <button className="px-16 mt-10 text-2xl bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white">
+              <button className="px-16 mt-10 md:text-2xl bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white">
                 Book Now
               </button>
             </div>

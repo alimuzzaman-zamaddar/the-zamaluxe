@@ -13,9 +13,9 @@ const Explore = () => {
           </div>
           <div className=" absolute top-[37%] left-[10%] w-[500px] mb-3 bg-[#201b0d] bg-opacity-30"  data-aos="fade-right"
               data-aos-duration="3000">
-            <h1 className=" text-6xl font-serif text-white font-extrabold uppercase">This is our royle scape</h1>
-            <p className="text-lg mb-5 uppercase text-white font-serif">our extraordinary view and shows</p>
-            <button className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 py-3 text-white">
+            <h1 className=" md:text-6xl font-serif text-white font-extrabold uppercase">This is our royle scape</h1>
+            <p className="md:text-lg mb-5 uppercase text-white font-serif">our extraordinary view and shows</p>
+            <button className="px-8 bg-[#877a52] hover:bg-[#d3aa2f] duration-700 md:py-3 text-white">
               Explore More
             </button>
           </div>
