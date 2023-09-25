@@ -1,3 +1,5 @@
+"use client"
+import { signIn } from "next-auth/react";
 import Link from "next/link";
 import { BiSolidPhoneCall, BiSolidMap } from "react-icons/bi";
 import { FaEnvelope } from "react-icons/fa";
@@ -20,7 +22,7 @@ const Navbar = () => {
           <h2 className="text-xs mb-3">The Royal</h2>
         </div>
         <div className="">
-          <button className="md:px-8  bg-[#877a52] hover:bg-[#d3aa2f] duration-700 p-2 md:py-3 text-white">Book Now</button>
+          <button onClick={()=> signIn('github')} className="md:px-8  bg-[#877a52] hover:bg-[#d3aa2f] duration-700 p-2 md:py-3 text-white">Book Now</button>
         </div>
       </div>
 
